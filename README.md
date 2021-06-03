@@ -1,16 +1,6 @@
 # climate_app
 
-A new Flutter application.
+A flutter app that will inform you about the weather 🌦️ of any location around the globe 🌏 accurately. 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+<img src ="https://user-images.githubusercontent.com/55586537/120691183-c0f6d200-c4c3-11eb-9d96-110ac8a9a734.png"  width = "275"> <img src = "https://user-images.githubusercontent.com/55586537/120691262-d966ec80-c4c3-11eb-9175-74f170ea47d5.png" width = "275"> <img src = "https://user-images.githubusercontent.com/55586537/120691320-edaae980-c4c3-11eb-850b-3a0a9d4f9f8d.png" width = "275">
